@@ -15,5 +15,6 @@
 # 扩散模型学习记录
 ## 1、DDPM（概率去噪扩散模型）
   前向加噪和反向去噪，讲解视频：https://www.bilibili.com/video/BV1tz4y1h7q1/?spm_id_from=333.999.0.0&vd_source=12b452817cc2c0420d8edd85f6438257
+  
   论文：《Denoising Diffusion Probabilistic Models》
   code：https://github.com/hojonathanho/diffusion
