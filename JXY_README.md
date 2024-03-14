@@ -8,7 +8,7 @@
 
 第十章有图像分类、检测、分割、Transformer、ViT、Swin Transformer解读
 
-#  超级简单全面好用的matkdown语法查看网站
+#  超级简单全面好用的Markdown语法查看网站
 
 [查markdown语法](https://markdown-it.github.io/)
 
